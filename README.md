@@ -14,3 +14,7 @@ to do :
 - Albumentations for data augmentation
 
 https://albumentations.ai/docs/1-introduction/what-are-image-augmentations/
+
+https://medium.com/@miramnair/image-and-label-augmentation-using-albumentations-b502a56bf486
+
+https://youtu.be/Xhl_S_0ZYEo?si=uUXCB_CBHX_nyBmu
