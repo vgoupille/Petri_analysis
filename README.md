@@ -8,4 +8,9 @@ to do :
 - train a yolo v8 seg model  for petri dish detection and segmentation
 - verify the model on a validation set
 - use the model to predict on the whole dataset
-- need a correct annotation of the dataset (file or name convention)
+- need a correct annotation of the dataset (file or name convention
+
+- use roboflow , labelme or napari for annotation
+- Albumentations for data augmentation
+
+https://albumentations.ai/docs/1-introduction/what-are-image-augmentations/
